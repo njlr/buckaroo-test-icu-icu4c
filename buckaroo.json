@@ -1,0 +1,7 @@
+{
+  "name": "buckaroo-test-icu-icu4c",
+  "dependencies": {
+    "google/gtest": "1.8.0",
+    "icu/icu4c": "59.1.0"
+  }
+}
